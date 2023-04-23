@@ -16,18 +16,13 @@ COMPLETION_WAITING_DOTS="true"
 
 plugins=(
 	git
-	python
-	pip
 	pyenv
-	virtualenv
 	zsh-syntax-highlighting
 	zsh-autosuggestions
-	sudo
 	colorize
 	colored-man-pages
 	branch
 	fd
-	tmux
 )
 
 source $ZSH/oh-my-zsh.sh
