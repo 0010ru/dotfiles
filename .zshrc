@@ -1,5 +1,5 @@
 alias gt="git"
-alias cat="batcat"
+alias cat="bat"
 alias ls="exa -l"
 
 export EDITOR='nvim'
@@ -13,6 +13,7 @@ export ZSH="$HOME/.oh-my-zsh"
 ZSH_THEME="sunrise"
 DISABLE_AUTO_TITLE="true"
 COMPLETION_WAITING_DOTS="true"
+ZSH_AUTOSUGGEST_STRATEGY="completion"
 
 plugins=(
 	git
