@@ -11,6 +11,7 @@ zsh
 fd
 exa
 batcat
+kitty
 pyenv
 luajit
 neovim
