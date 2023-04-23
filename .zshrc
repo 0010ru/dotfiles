@@ -18,6 +18,7 @@ plugins=(
 	git
 	pyenv
 	zsh-autosuggestions
+	zsh-syntax-highlighting
 	colorize
 	colored-man-pages
 	branch
