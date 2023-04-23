@@ -7,11 +7,11 @@ this is my snapshot of my configs
 ```
 git
 zsh
-oh-my-zsh
-zsh-syntax-highlighting
-zsh-autosuggestions
 fd
 exa
 batcat
 pyenv
+
+oh-my-zsh - https://ohmyz.sh/#install
+zsh-autosuggestions - https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 ```
