@@ -18,5 +18,4 @@ neovim
 oh-my-zsh - https://ohmyz.sh/#install
 zsh-autosuggestions - https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 zsh-syntax-highlighting - https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
-colorize - https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/colorize
 ```
