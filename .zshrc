@@ -17,7 +17,6 @@ COMPLETION_WAITING_DOTS="true"
 plugins=(
 	git
 	pyenv
-	zsh-syntax-highlighting
 	zsh-autosuggestions
 	colorize
 	colored-man-pages
