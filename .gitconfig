@@ -1,0 +1,11 @@
+[user]
+	email = me@0010.ru
+	name = Valentin Zemlyakov
+
+[alias]
+	co = checkout
+	br = branch
+	cm = commit -m
+	st = status
+	al = add -A
+	rs = restore --staged
