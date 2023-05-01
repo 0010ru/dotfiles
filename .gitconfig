@@ -9,3 +9,4 @@
 	st = status
 	al = add -A
 	rs = restore --staged
+	ps = push
