@@ -12,8 +12,6 @@ fd
 exa
 batcat
 kitty
-pyenv
-luajit
 neovim
 
 oh-my-zsh - https://ohmyz.sh/#install
