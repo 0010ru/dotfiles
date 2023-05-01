@@ -1,4 +1,6 @@
-export EDITOR='nvim'
+export PATH="$HOME/.opt:$PATH"
+export PATH="$HOME/.opt/nvim/bin:$PATH"
+export EDITOR="nvim"
 export ARCHFLAGS="-arch x86_64"
 export PYENV_ROOT="$HOME/.pyenv"
 export PATH="$PYENV_ROOT/bin:$PATH"
