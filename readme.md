@@ -22,4 +22,5 @@ oh-my-posh - https://ohmyposh.dev/docs/installation/linux
 
 packer - https://github.com/wbthomason/packer.nvim
 nvim-tree - https://github.com/nvim-tree/nvim-tree.lua
+github.com/catppuccin - https://github.com/catppuccin/nvim
 ```
