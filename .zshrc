@@ -1,7 +1,3 @@
-alias gt="git"
-alias cat="bat"
-alias ls="exa -l"
-
 export EDITOR='nvim'
 export ARCHFLAGS="-arch x86_64"
 export PYENV_ROOT="$HOME/.pyenv"
@@ -27,4 +23,10 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 eval "$(oh-my-posh init zsh)"
-eval "$(oh-my-posh init zsh --config ~/.poshthemes/agnoster.omp.json)"
+eval "$(oh-my-posh init zsh --config ~/.poshtheme.agnoster.omp.json)"
+
+alias gt="git"
+alias cat="bat"
+alias ls="exa -la"
+
+
