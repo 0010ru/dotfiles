@@ -1,8 +1,8 @@
 require("packer").startup(function(use)
     use "wbthomason/packer.nvim"
+    use "ggandor/lightspeed.nvim"
     use {"catppuccin/nvim"}
     use {"nvim-tree/nvim-tree.lua", requires = { "nvim-tree/nvim-web-devicons" }}
-    use 'ggandor/lightspeed.nvim'
 end)
 
 require("nvim-tree").setup({disable_netrw = true})
