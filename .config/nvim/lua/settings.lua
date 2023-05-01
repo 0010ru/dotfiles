@@ -26,3 +26,4 @@ o.wildmenu = true
 o.showcmd = true
 o.list = true
 o.listchars = "space:·,tab:»·"
+
